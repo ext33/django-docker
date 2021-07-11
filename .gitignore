@@ -1,0 +1,4 @@
+server/venv/
+nginx/
+net/
+pgdata/
